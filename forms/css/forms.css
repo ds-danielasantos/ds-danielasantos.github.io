@@ -12,6 +12,9 @@ body {
   padding: 0;
   background-image: url(../img/galaxy.jpg);
 }
+h1, legend, h3, button {
+  font-family: 'Amatic SC', cursive;
+}
 .wrapper {
   width: 80%;
   margin: 0 auto;
